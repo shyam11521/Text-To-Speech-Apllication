@@ -1,1 +1,1 @@
-# Text-To-Speech-Apllication
+# Text-To-Speech-Application
